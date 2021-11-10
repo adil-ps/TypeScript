@@ -4,7 +4,7 @@ on:
   push:
     branches:
       - main
-      - release-*
+      - v3.9.9
   pull_request:
     branches:
       - main
